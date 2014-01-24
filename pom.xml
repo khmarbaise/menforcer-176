@@ -2,6 +2,12 @@
 
   <modelVersion>4.0.0</modelVersion>
 
+  <parent>
+    <groupId>com.soebes.smpp</groupId>
+    <artifactId>smpp</artifactId>
+    <version>0.6.3</version>
+  </parent>
+
   <groupId>org.apache.maven.plugins.enforcer</groupId>
   <artifactId>banned-dependencies</artifactId>
   <version>1-SNAPSHOT</version>
